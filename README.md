@@ -14,5 +14,5 @@ I'm a passionate data enthusiast and developer focused on building intelligent s
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [link-to-your-profile]
-- **Portfolio:** [link-to-your-website]
+- **LinkedIn:** https://www.linkedin.com/in/prateek-sharma-aaa807327/
+  
